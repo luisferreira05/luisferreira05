@@ -10,8 +10,8 @@
 - Git & GitHub  
 - Linux (Ubuntu)
 
-## 📌 Featured Projects
-[https://github.com/luisferreira05/5G-and-Beyond-Networks-6G-/tree/main]
+## 📌 
+5G and Beyond Networks (6G) -> [https://github.com/luisferreira05/5G-and-Beyond-Networks-6G-/tree/main]
 
 
 
