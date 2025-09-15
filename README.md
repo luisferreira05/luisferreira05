@@ -3,7 +3,7 @@
 
 🎓 Computer Science student from Portugal  
 💻 Interested in Programming, Cybersecurity, and Networking  
-🚀 Currently learning C and Haskell  
+🚀 Currently learning C, Haskell, Python, HTML, CSS 
 
 ## 🔧 Technologies & Tools
 - C, Haskell, Python  
