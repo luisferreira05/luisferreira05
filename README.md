@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=87CEFA&lines=Hello!+My+name+is+Luís;Student+of+Computer+Science)](https://git.io/typing-svg)
 
-
 🎓 Computer Science student from Portugal  
-💻 Interested in Programming, Cybersecurity, and Networking  
-🚀 Currently learning C, Haskell, Python, HTML, CSS 
+💻 Focused on Cybersecurity, Systems and Blockchain Technologies  
+🔐 Interested in secure systems, network security and crypto infrastructure  
+🚀 Currently working with C, Haskell and Python
 
 ## 🔧 Technologies & Tools
 - C, Haskell, Python  
