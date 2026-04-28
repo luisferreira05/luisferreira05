@@ -8,7 +8,7 @@
 ## 🔧 Technologies & Tools
 - C, Haskell, Python  
 - Git & GitHub  
-- Linux (Ubuntu)
+- Linux (Mint)
 
 ## 📌 Academic Work
 5G and Beyond Networks (6G) -> [https://github.com/luisferreira05/5G-and-Beyond-Networks-6G-/tree/main]
